@@ -1,5 +1,4 @@
 const timerComponents = () => {
-
     const timer = document.querySelector(".timer");
     let timerInterval;
 
